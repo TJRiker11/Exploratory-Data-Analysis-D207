@@ -7,6 +7,7 @@ A.  Describe a real-world organizational situation or issue in the Data Dictiona
 2.  Explain how stakeholders in the organization could benefit from an analysis of the data.
 
 3.  Identify all of the data in your data set that are relevant to answering your question in part A1.
+4.  
 
  
 
